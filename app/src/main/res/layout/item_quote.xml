@@ -1,11 +1,11 @@
-<!-- Ini Step 1 dalam membuat card view, klik kanan pada folder layout kemudian new layout resource file dan pilih card view -->
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Ini Step 1 dalam membuat card view, klik kanan pada folder layout kemudian new layout resource file dan pilih card view -->
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_margin="6dp"
     android:elevation="24dp">
-    
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
